@@ -12,7 +12,7 @@ from sklearn.metrics import classification_report
 import ibm_db_dbi
 
 # 接数DB2数据库
-
+# update
 
 # con = ibm_db_dbi.connect(
 #   "DATABASE=artdb;HOSTNAME=10.110.1.178;PORT=50000;PROTOCOL=TCPIP;UID=db2inst1;PWD=db2inst1;", "", "")
