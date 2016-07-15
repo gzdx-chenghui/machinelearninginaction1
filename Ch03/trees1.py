@@ -1,8 +1,13 @@
-'''
-Created on Oct 14, 2010
+import csv
+from io import StringIO
 
-@author: Peter Harrington
-'''
+import pandas as pd
+
+from sklearn import tree
+
+
+########################################
+
 import matplotlib.pyplot as plt
 
 decisionNode = dict(boxstyle="sawtooth", fc="0.8")
@@ -88,7 +93,7 @@ def createPlot(inTree):
 # def createPlot():
 #    fig = plt.figure(1, facecolor='white')
 #    fig.clf()
-#    createPlot.ax1 = plt.subplot(111, frameon=False) #ticks for demo puropses 
+#    createPlot.ax1 = plt.subplot(111, frameon=False) #ticks for demo puropses
 #    plotNode('a decision node', (0.5, 0.1), (0.1, 0.5), decisionNode)
 #    plotNode('a leaf node', (0.8, 0.1), (0.3, 0.8), leafNode)
 #    plt.show()
@@ -98,4 +103,32 @@ def retrieveTree(i):
                    {'no surfacing': {0: 'no', 1: {'flippers': {0: {'head': {0: 'no', 1: 'yes'}}, 1: 'no'}}}}
                    ]
     return listOfTrees[i]
+
+    # createPlot(thisTree)
+#####################################################
+
+# read data from excel file as DataFrame
+cnnames = ['Demand', 'OrderQu', 'FillRate', 'Sale', 'Salepre', 'Averagestock', 'Stock_salesRatio', 'retailPrice']
+# chu li shu ju
+raw_train_data = pd.read_excel("TrainingData.xlsx")
+raw_train_data1 = pd.read_excel("TrainingData1.xlsx")
+raw_train_data2 = pd.read_excel("TrainingData2.xlsx")
+print(raw_train_data2)
+raw_train_data.to_csv('trainData.csv', sep='\t', index=False, header=False)
+raw_train_data1.to_csv('trainData1.csv', sep='\t', index=False, header=False)
+raw_train_data2.to_csv('trainData2.csv', sep='\t', index=False, header=False)
+fr = open("trainData.csv")
+fr1 = open("trainData1.csv")
+fr2 = open("trainData2.csv")
+lenses = [inst.strip().split('\t') for inst in fr.readlines()]
+lenses1 = [inst.strip().split('\t') for inst in fr1.readlines()]
+lenses2 = [inst.strip().split('\t') for inst in fr2.readlines()]
+print(lenses1)
+print(lenses2)
+
+lensesLabels = ['Demand', 'OrderQu', 'FillRate', 'Sale', 'Salepre', 'Averagestock', 'Stock_salesRatio']
+clf = tree.DecisionTreeClassifier().fit(lenses1, lenses2)
+print(clf)
+createPlot(clf)
+
 

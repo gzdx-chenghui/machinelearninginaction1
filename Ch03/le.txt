@@ -1,0 +1,2268 @@
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+7	>=tradepriceAnd<SuggestedRetailPrice
+20	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+8	Greater than or equal to the recommended retail price
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	>=tradepriceAnd<SuggestedRetailPrice
+21	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+4	<tradepriceAnd
+30	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+4	<tradepriceAnd
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+6	>=tradepriceAnd<SuggestedRetailPrice
+11	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+3	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+30	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+7	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+25	>=tradepriceAnd<SuggestedRetailPrice
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+10	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+4	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+1	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+1	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+6	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+1	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+2	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+8	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+68	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+100	>=tradepriceAnd<SuggestedRetailPrice
+75	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+50	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+2	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+6	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+30	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+8	Greater than or equal to the recommended retail price
+7	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+50	Greater than or equal to the recommended retail price
+60	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+4	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+8	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+25	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+7	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+100	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+4	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+4	>=tradepriceAnd<SuggestedRetailPrice
+6	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+30	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	<tradepriceAnd
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+6	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+20	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+5	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+2	>=tradepriceAnd<SuggestedRetailPrice
+6	>=tradepriceAnd<SuggestedRetailPrice
+4	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+1	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+3	Greater than or equal to the recommended retail price
+3	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+22	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+6	<tradepriceAnd
+4	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+5	>=tradepriceAnd<SuggestedRetailPrice
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+3	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	<tradepriceAnd
+3	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+3	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+4	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+20	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+5	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+7	>=tradepriceAnd<SuggestedRetailPrice
+60	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+4	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+2	<tradepriceAnd
+3	<tradepriceAnd
+5	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+1	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+4	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+3	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+6	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+14	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+30	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+12	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+17	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+100	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+30	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+4	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+100	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+3	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+30	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+3	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+30	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+50	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+75	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+30	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+3	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+35	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+5	>=tradepriceAnd<SuggestedRetailPrice
+25	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+4	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+8	>=tradepriceAnd<SuggestedRetailPrice
+45	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+9	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+12	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+8	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+5	>=tradepriceAnd<SuggestedRetailPrice
+10	>=tradepriceAnd<SuggestedRetailPrice
+40	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+15	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+50	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+20	>=tradepriceAnd<SuggestedRetailPrice
+100	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+24	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+15	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+160	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+500	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+400	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+50	Greater than or equal to the recommended retail price
+50	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+8	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+7	>=tradepriceAnd<SuggestedRetailPrice
+100	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+5	<tradepriceAnd
+3	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+1	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+10	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+25	Greater than or equal to the recommended retail price
+20	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+1	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+7	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+2	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+1	<tradepriceAnd
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+2	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+4	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+1	<tradepriceAnd
+0	<tradepriceAnd
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+10	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+1	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+1	Greater than or equal to the recommended retail price
+0	<tradepriceAnd
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+0	Greater than or equal to the recommended retail price
+3	>=tradepriceAnd<SuggestedRetailPrice
+3	Greater than or equal to the recommended retail price
+5	Greater than or equal to the recommended retail price
+1	Greater than or equal to the recommended retail price
+0	>=tradepriceAnd<SuggestedRetailPrice
+0	Greater than or equal to the recommended retail price
